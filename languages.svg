@@ -134,28 +134,28 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #b07219; 
-  width: 89.552%;
+  width: 89.573%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
-  width: 7.054%;
+  width: 7.040%;
 " class="progress-item"></span><span style="
   background-color: #882B0F; 
-  width: 0.670%;
+  width: 0.669%;
 " class="progress-item"></span><span style="
   background-color: #ffcc33; 
-  width: 0.496%;
+  width: 0.495%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
   width: 0.462%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 0.462%;
+  width: 0.461%;
 " class="progress-item"></span><span style="
   background-color: #A97BFF; 
-  width: 0.435%;
+  width: 0.434%;
 " class="progress-item"></span><span style="
   background-color: #012456; 
-  width: 0.419%;
+  width: 0.418%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
   width: 0.101%;
@@ -170,7 +170,7 @@ div.ellipsis {
   width: 0.059%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 0.044%;
+  width: 0.043%;
 " class="progress-item"></span><span style="
   background-color: #1a5e9a; 
   width: 0.034%;
@@ -221,7 +221,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Java</span>
-  <span class="percent">89.55%</span>
+  <span class="percent">89.57%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -237,7 +237,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Rust</span>
-  <span class="percent">7.05%</span>
+  <span class="percent">7.04%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -269,7 +269,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Fluent</span>
-  <span class="percent">0.50%</span>
+  <span class="percent">0.49%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
